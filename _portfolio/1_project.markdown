@@ -5,9 +5,6 @@ description: 내 인생 최초 앱 만들기 프로젝트
 img: /img/12.jpg
 ---
 
-내가 이 길을 끝까지 전공하게 될 줄은 몰랐지만, 만약 포기하지 않고 하게 된다면 언젠가는 앱을 만들어보고 싶다고 생각했다. 작년 초부터 약 1년 이상가량 생각해왔던 것은 매칭앱 중에서도 MBTI를 통한 매칭앱이다.
-		indent?code?
-		
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
