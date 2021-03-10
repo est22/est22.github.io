@@ -1,0 +1,24 @@
+---
+layout: post
+title: XQuant
+date: 2021-03-10 21:46:39
+description: My Work at XQuant
+---
+기억나는대로 다 써본다.... 엑스퀀트에서 한 일
+
+커뮤니케이션 위주로 한국과 외국 엔지니어들을 잇는 일을 하였음
+
+소프트웨어 개발의 전반적인 과정에 참여함. 
+
+regression test
+
+UAT Checklist 작성함
+
+크롤링은 별로 안함...
+
+NLP 에 대해서 공부하려함... scrapy
+
+Termsheet 내용 IRS/CRS/FWF/FWS 내용 다 알아야함..특히 멀티테이블 있는 경우에도 다
+어떻게 알고리즘 짜야할지 생각해보는것
+
+NICE 클라이언트와 소통
