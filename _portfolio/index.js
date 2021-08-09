@@ -1,0 +1,1 @@
+for (var i=0; i <= 1; i++) { msg = (i == 1) ? "Happy Birthday, Nick!" : "Happy 7th annual 21st birthday (As of 2016)!" ; alert(msg); }
