@@ -25,8 +25,8 @@ nav li {
 main {
     padding: 20px;
 }
-/* CSS */
-.button-7 {
+
+.pretty-button {
 background-color: #0095ff;
 border: 1px solid transparent;
 border-radius: 3px;
@@ -52,16 +52,18 @@ vertical-align: baseline;
 white-space: nowrap;
 }
 
-.button-7:hover,
-.button-7:focus {
+.pretty-button:hover,
+.pretty-button:focus {
 background-color: #07c;
 }
 
-.button-7:focus {
+.pretty-button:focus {
 box-shadow: 0 0 0 4px rgba(0, 149, 255, .15);
 }
 
-.button-7:active {
+.pretty-button:active {
 background-color: #0064bd;
 box-shadow: none;
 }   
+
+
